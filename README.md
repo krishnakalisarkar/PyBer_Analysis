@@ -18,8 +18,8 @@ After the initial analysis of ride share data, the code was refactored and some 
 
 ### Analysis of the summary dataframe.
 
-![summary]()
-![Total riders and drivers]()
+![summary](analysis/Summary_dataframe_table.png)
+![Total riders and drivers](analysis/PyBer_summary.png)
 
 . Looking at the bar graph it is clearly evident that the number of drivers in the Urban city type is way higher (2405) than the suburban (490) and the rural city types (78).
 . The number of total rides is also very high in the urban city type as compared to the suburban and rural. 
