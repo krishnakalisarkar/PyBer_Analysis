@@ -29,7 +29,7 @@ After the initial analysis of ride share data, the code was refactored and some 
 . There is a negative correlation between the total number of rides in a city and the average fare per ride.
 . Since the number of total rides are way higher in the urban city types(1625), so the total fare in urban city($39,854.38) is also higher than the suburban($19,356.33) and rural city type($4,327.93).
 
-![summary_fare]()
+![summary_fare](analysis/PyBer_fare_summary2.png)
 
 The multi line chart plots the total weekly fare of the urban, suburban and rural city types.
 . There was a spike in number of rides and hence the total ride fare increased in all the city types in the week of February 17th to February 24th.
