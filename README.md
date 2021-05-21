@@ -26,9 +26,6 @@ After the initial analysis of ride share data, the code was refactored and some 
 * Interestingly, the average fare per ride is very high in the rural at $34.62/ride as compared to the urban area which is $24.53 per ride.  
 * Rural areas have less population density and more open land with few homes or other buildings. The buildings and homes are well spread out in the city. These could be an explanation as to why there are  less drivers and less number of rides and more average fare per ride.  
 * The Average fare per driver is $55.49 in the rural city type which is way higher than the suburban ($39.50) and urban ($16.57) city type. Since the number of drivers are less in the rural area the average fare per driver is way higher in the rural area in order to keep up with the maintenance cost price.  
-
-![Average fareper ride]()
-
 * There is a negative correlation between the total number of rides in a city and the average fare per ride.  
 
 ![Total fare](analysis/Fig5.png)
